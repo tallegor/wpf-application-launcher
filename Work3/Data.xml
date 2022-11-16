@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<apps>
+  <app name="Chrome">
+    <path>C:\Program Files\Google\Chrome\Application\chrome.exe</path>
+    <icon>C:\Program Files\Google\Chrome\Application\107.0.5304.107\VisualElements\Logo.png</icon>
+  </app>
+  <app name="VPN">
+    <path>C:\Program Files\IVPN Client\ui\IVPN Client.exe</path>
+    <icon>C:\Program Files\IVPN Client\icon.ico</icon>
+  </app>
+</apps>
